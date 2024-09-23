@@ -4,8 +4,8 @@
 
 ## Que hay en este documento?
 
-1. Que es [Github](https://github.com/)
-2. Funciones [Github](https://github.com/)
+1. Que es Github?
+2. Funciones Github
 3. Pasos a seguir para conseguir diferentes acciones
 4. Conclusiones
 5. Bibliografia
