@@ -42,46 +42,46 @@
 A continuación, te detallo los pasos que debes seguir para realizar las acciones más importantes en GitHub:
 
 ##### 1. Crear y gestionar repositorios
-* Crea una cuenta en GitHub: Si no tienes una, regístrate en github.com.
+* Crea una cuenta en GitHub: Si no tienes una, regístrate en [github.com](github.com).
 * Crea un nuevo repositorio:
-  * Inicia sesión y haz clic en el botón "New" en la página de inicio.
+  * Inicia sesión y haz clic en el botón "**New**" en la página de inicio.
   * Introduce el nombre del repositorio, agrega una descripción (opcional) y decide si será público o privado.
   * Selecciona opcionalmente si deseas agregar un archivo README, un archivo .gitignore o una licencia.
-  * Haz clic en "Create repository".
+  * Haz clic en "**Create repository**".
   
 ##### 2. Control de versiones y gestión de commits
 * Clona el repositorio:
-  * Copia la URL del repositorio y, en la terminal, escribe: _git clone URL_DEL_REPOSITORIO_.
+  * Copia la URL del repositorio y, en la terminal, escribe: _ git clone URL_DEL_REPOSITORIO _.
 * Realiza cambios y haz commits:
   * Agrega o modifica los archivos necesarios.
   * Utiliza _git add ._ para agregar los cambios al área de preparación.
-  * Haz un commit con git commit -m "Mensaje del commit".
+  * Haz un commit con _git commit -m "Mensaje del commit"_.
 * Envía los cambios al repositorio remoto:
   * Utiliza git push origin nombre_de_la_rama para enviar los cambios a GitHub.
     
 ##### 3. Colaborar mediante pull requests
-* Haz un fork del repositorio: Si deseas contribuir a un proyecto que no es tuyo, haz clic en "Fork" en la página del repositorio.
+* Haz un fork del repositorio: Si deseas contribuir a un proyecto que no es tuyo, haz clic en "**Fork**" en la página del repositorio.
 * Clona el repositorio forkeado y crea una nueva rama:
   * _git checkout -b nombre_de_tu_rama_
 * Realiza los cambios y súbelos a tu repositorio forkeado.
 * Crea un pull request:
-  * En la página de tu repositorio, haz clic en "Compare & pull request".
-  * Describe los cambios que has realizado y haz clic en "Create pull request".
+  * En la página de tu repositorio, haz clic en "**Compare & pull request**".
+  * Describe los cambios que has realizado y haz clic en "**Create pull request**".
 
 ##### 4. Gestionar issues y proyectos
 * Crear un issue:
-  * En la página del repositorio, haz clic en la pestaña "Issues" y luego en "New issue".
+  * En la página del repositorio, haz clic en la pestaña "**Issues**" y luego en "**New issue**".
   * Introduce un título y una descripción detallada del problema o sugerencia.
   * Asigna etiquetas, personas y hitos, si es necesario.
 * Gestionar proyectos:
-  * Haz clic en la pestaña "Projects" y luego en "New project".
-  * Selecciona un tipo de tablero (kanban o personalizado) y organiza las tareas mediante tarjetas que representan issues, pull requests u otras tareas.
+  * Haz clic en la pestaña "**Projects**" y luego en "**New project**".
+  * Selecciona un tipo de tablero _kanban o personalizado)_ y organiza las tareas mediante tarjetas que representan issues, pull requests u otras tareas.
  
     
 ##### 5. Automatizar tareas con GitHub Actions
 * Configura GitHub Actions:
-  * En la página del repositorio, haz clic en la pestaña "Actions".
-  * Selecciona un flujo de trabajo predefinido o crea uno nuevo mediante la creación de un archivo .yml.
+  * En la página del repositorio, haz clic en la pestaña "**Actions**".
+  * Selecciona un flujo de trabajo predefinido o crea uno nuevo mediante la creación de un archivo _.yml_.
 * Personaliza el archivo de workflow:
   * Edita el archivo _.github/workflows/nombre_del_archivo.yml_ para definir las tareas que se ejecutarán de forma automática, como ejecutar pruebas, compilar el proyecto o desplegarlo.
 * Sube el archivo y GitHub Actions se ejecutará automáticamente según las condiciones definidas en el workflow.
