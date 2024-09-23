@@ -2,6 +2,14 @@
 
 ##### Hecho por Ramon Viñuales Lazaro
 
+## Que hay en este documento?
+
+1. Que es [Github](https://github.com/)
+2. Funciones [Github](https://github.com/)
+3. Pasos a seguir para conseguir diferentes acciones
+4. Conclusiones
+5. Bibliografia
+
 ## Que es [Github](https://github.com/)?
 
 ![imagen Github](https://i.blogs.es/bd50eb/github_logo/1024_2000.png)
@@ -16,7 +24,7 @@
  
  Tambien permite trabajar con distintas ramas de un proyecto, como la de desarrollo para meter nuevas funciones al programa o la de producción para depurar los bugs.
 
-## Funciones Github
+## Funciones [Github](https://github.com/)
 
  Algunas de las funciones mas inportantes para la gestion de nuestros repositorios son:
 
@@ -50,7 +58,7 @@ A continuación, te detallo los pasos que debes seguir para realizar las accione
   * Haz un commit con git commit -m "Mensaje del commit".
 * Envía los cambios al repositorio remoto:
   * Utiliza git push origin nombre_de_la_rama para enviar los cambios a GitHub.
-  * 
+    
 ##### 3. Colaborar mediante pull requests
 * Haz un fork del repositorio: Si deseas contribuir a un proyecto que no es tuyo, haz clic en "Fork" en la página del repositorio.
 * Clona el repositorio forkeado y crea una nueva rama:
@@ -84,8 +92,8 @@ Siguiendo estos pasos, podrás aprovechar al máximo todas las funcionalidades y
 GitHub es una plataforma que permite almacenar, gestionar y colaborar en proyectos de programación utilizando el sistema de control de versiones Git. Facilita el trabajo en equipo, el seguimiento de cambios y la automatización de tareas en proyectos de software.
 
 ## Bibliografia
-* [Chat gpt](https://openai.com/chatgpt/)
 * [Xataka](https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores)
 * [Github](https://docs.github.com/es/get-started/start-your-journey/about-github-and-git)
 * [Hostinger](https://www.hostinger.es/tutoriales/que-es-github)
+* [Chat GPT](https://openai.com/chatgpt/)
  
