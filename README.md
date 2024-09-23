@@ -16,9 +16,12 @@ _**Github**_ es una de las principales plataformas para crear proyectos, carater
 
  Algunas de las funciones mas inportantes para la gestion de nuestros repositorios son:
 
-* **git add nombre_del_archivo**(cambiando _nombre_del_archivo_ por el nombre del archivo) Se utiliza para agregar cambios en archivos al área de preparación "_staging area_" de Git antes de hacer un commit.
+* **git add nombre_del_archivo** (cambiando _nombre_del_archivo_ por el nombre del archivo) Se utiliza para agregar cambios en archivos al área de preparación "_staging area_" de Git antes de hacer un commit.
+  
  * **git commit -m "Example"** (cambiando _Example_ por el mensaje que le queramos poner al subir los nuevos cambios)  Se utiliza para guardar los cambios realizados en el proyecto en el repositorio local Git.
+   
  *  **git push origin main** (cambiando  _main_ por la rama donde quieres subir los cambios del repositorio local y _origin_ por el nombre del repositorio remoto) Se utiliza para subir los _commits_ realizados en tu repositorio local al repositorio remoto.
+   
  *  **git pull origin main** (cambiando  _main_ por la rama donde quieres subir los cambios del repositorio local y _origin_ por el nombre del repositorio remoto)
    
 
@@ -76,7 +79,7 @@ Siguiendo estos pasos, podrás aprovechar al máximo todas las funcionalidades y
 
 GitHub es una plataforma que permite almacenar, gestionar y colaborar en proyectos de programación utilizando el sistema de control de versiones Git. Facilita el trabajo en equipo, el seguimiento de cambios y la automatización de tareas en proyectos de software.
 
-##Bibliografia
+## Bibliografia
 * [Chat gpt](https://openai.com/chatgpt/)
 * [Xataka](https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores)
 * [Github](https://docs.github.com/es/get-started/start-your-journey/about-github-and-git)
