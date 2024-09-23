@@ -1,28 +1,32 @@
-# Trabajo Despliege de aplicaciones web: GitHub
+# Trabajo Despliege de aplicaciones web: [Github](https://github.com/)
 
 ##### Hecho por Ramon Viñuales Lazaro
 
-## Que es _**GitHub**_?
+## Que es [Github](https://github.com/)?
 
 ![imagen Github](https://i.blogs.es/bd50eb/github_logo/1024_2000.png)
 
-_**Github**_ es una de las principales plataformas para crear proyectos, caraterizado por sus funciones colaborativas, que ayudan a que todos puedan aportar su granito de arena para mejorar el código.
+[Github](https://github.com/) es una de las principales plataformas para crear proyectos, caraterizado por sus funciones colaborativas, que ayudan a que todos puedan aportar su granito de arena para mejorar el código.
 
- _**Github**_ utiliza un sistema de control de versiones donde los desarroyadores pueden administrar su proyecto, ordenando el código de cada una de las nuevas versiones que sacan de sus aplicaciones para evitar confusiones. Así, al tener copias de cada una de las versiones de su aplicación, no se perderán los estados anteriores cuando se va a actualizar.
+ [Github](https://github.com/) utiliza un sistema de control de versiones _**GIT**_ donde los desarroyadores pueden administrar su proyecto, ordenando el código de cada una de las nuevas versiones que sacan de sus aplicaciones para evitar confusiones. 
+ 
+ Así, al tener copias de cada una de las versiones de su aplicación, no se perderán los estados anteriores cuando se va a actualizar.
+ 
  Ademas el sistema permite comparar el código de un archivo para ver las diferencias entre las versiones, restaurar versiones antiguas si algo sale mal, y fusionar los cambios de distintas versiones.
+ 
  Tambien permite trabajar con distintas ramas de un proyecto, como la de desarrollo para meter nuevas funciones al programa o la de producción para depurar los bugs.
 
 ## Funciones Github
 
  Algunas de las funciones mas inportantes para la gestion de nuestros repositorios son:
 
-* **git add nombre_del_archivo** (cambiando _nombre_del_archivo_ por el nombre del archivo) Se utiliza para agregar cambios en archivos al área de preparación "_staging area_" de Git antes de hacer un commit.
+* **git add nombre_del_archivo** _(cambiando _nombre_del_archivo_ por el nombre del archivo)_ Se utiliza para agregar cambios en archivos al área de preparación "_staging area_" de Git antes de hacer un commit.
   
- * **git commit -m "Example"** (cambiando _Example_ por el mensaje que le queramos poner al subir los nuevos cambios)  Se utiliza para guardar los cambios realizados en el proyecto en el repositorio local Git.
+ * **git commit -m "Example"** _(cambiando _Example_ por el mensaje que le queramos poner al subir los nuevos cambios)_  Se utiliza para guardar los cambios realizados en el proyecto en el repositorio local Git.
    
- *  **git push origin main** (cambiando  _main_ por la rama donde quieres subir los cambios del repositorio local y _origin_ por el nombre del repositorio remoto) Se utiliza para subir los _commits_ realizados en tu repositorio local al repositorio remoto.
+ *  **git push origin main** _(cambiando  _main_ por la rama donde quieres subir los cambios del repositorio local y _origin_ por el nombre del repositorio remoto)_ Se utiliza para subir los _commits_ realizados en tu repositorio local al repositorio remoto.
    
- *  **git pull origin main** (cambiando  _main_ por la rama donde quieres subir los cambios del repositorio local y _origin_ por el nombre del repositorio remoto)
+ *  **git pull origin main** _(cambiando  _main_ por la rama donde quieres subir los cambios del repositorio local y _origin_ por el nombre del repositorio remoto)_ Se utiliza para actualizar tu repositorio local con los cambios que se han realizado en el repositorio remoto.
    
 
 ## Pasos a seguir para conseguir diferentes acciones
