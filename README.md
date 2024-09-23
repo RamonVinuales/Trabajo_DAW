@@ -5,10 +5,10 @@
 ## Que hay en este documento?
 
 1. [Que es Github?](#que-es-github)
-2. [Funciones Github](#funciones-[Github](https://github.com/))
-3. [Pasos a seguir para conseguir diferentes acciones](#Pasos-a-seguir-para-conseguir-diferentes-acciones)
-4. [Conclusiones](#Conclusiones)
-5. [Bibliografia](#Bibliografia)
+2. [Funciones Github](#funciones-github)
+3. [Pasos a seguir para conseguir diferentes acciones](#pasos-a-seguir-para-conseguir-diferentes-acciones)
+4. [Conclusiones](#conclusiones)
+5. [Bibliografia](#bibliografia)
 
 ## Que es [Github](https://github.com/)?
 
