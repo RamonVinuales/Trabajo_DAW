@@ -1,6 +1,7 @@
 # Diario Unidad 
 
- ##Contenidos
+ ## Contenidos
+ 
  1.[Qué he aprendido](#qué-he-aprendido)
  
  2.[Qué no entiendo](#qué-no-entiendo)
