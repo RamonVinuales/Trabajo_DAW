@@ -1,6 +1,6 @@
 # Indice
 
-##Trabajos
+## Trabajos
 
 [Trabajo1][Tb1]
 
