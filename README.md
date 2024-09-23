@@ -89,7 +89,9 @@ Siguiendo estos pasos, podrás aprovechar al máximo todas las funcionalidades y
 
 ## Conclusiones
 
-GitHub es una plataforma que permite almacenar, gestionar y colaborar en proyectos de programación utilizando el sistema de control de versiones Git. Facilita el trabajo en equipo, el seguimiento de cambios y la automatización de tareas en proyectos de software.
+GitHub es una plataforma que permite almacenar, gestionar y colaborar en proyectos de programación utilizando el sistema de control de versiones Git. 
+
+Facilita el trabajo en equipo, el seguimiento de cambios y la automatización de tareas en proyectos de software.
 
 ## Bibliografia
 * [Xataka](https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores)
