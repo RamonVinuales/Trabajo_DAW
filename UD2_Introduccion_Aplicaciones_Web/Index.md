@@ -2,12 +2,13 @@
 
 ## Trabajos
 
-[Trabajo1][Tb1]
+1. [Trabajo1][Tb1]
 
-[Trabajo2][Tb2]
+2. [Trabajo2][Tb2]
 
-[Trabajo3][Tb3]
+3. [Trabajo3][Tb3]
 
+4. [Diario de Trabajo](diario_UD2)
 
 
 
