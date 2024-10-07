@@ -2,16 +2,10 @@
 
 ## Trabajos
 
-1. [Trabajo1][Tb1]
+1. [Diario de Trabajo](diario_UD2.md)
+2. [Trabajo1][Tb1]
 
-2. [Trabajo2][Tb2]
+[Back](/.)
 
-3. [Trabajo3][Tb3]
+[Tb1]:(Presentacion_DAW.pdf)
 
-4. [Diario de Trabajo](diario_UD2.md)
-
-
-
-[Tb1]:()
-[Tb2]:()
-[tb3]:()
