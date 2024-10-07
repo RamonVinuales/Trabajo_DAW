@@ -12,7 +12,7 @@
 
 En esta unidad hemos aprendido a crear un **servidor web Apache** mediante Ubuntu utilizando este comando:
 
-![sudo apt install apache2](/InstallApache.png)
+![sudo apt install apache2](UD3_Apache/Install Apache.png)
 
 a ajustar el **firewall** del ordenador para permitir el acceso externo a los **puertos web** predeterminados, a visualizar el contenido de nuestra **pagina web de Apache**, ademas de administrar el **proceso de Apache** y sus **funciones basicas**.
 
