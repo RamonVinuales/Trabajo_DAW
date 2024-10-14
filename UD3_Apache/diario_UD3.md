@@ -30,6 +30,23 @@ Administrar el **proceso de Apache** y sus **funciones basicas**.
 ![sudo ufw app list](Ufw_app_list.png)
 ![Comandos de Apache](Comandos_Apache.png)
 
+Para configurar el **servidor web apache** se realiza:
+
+1. Crear la ruta de la pagina y crear el archivo index.html
+![crear la Ruta](crearLaWebsite.png)
+![crear index.html](indexHtml.png)
+
+2. Editar el conf de la pagina
+   ![editar Conf de la pagina](editarConf.png)
+   ![Archivo conf](conf.png)
+   ![cargarEnApache](actualizarApache.png)
+   
+3.Actualizar los Hosts
+  ![updateHosts](updatearHosts.png)
+  Añadimos la direccion que le hemos puesto en este caso es la del 170.0.0.1
+
+  ![Hosts](Hosts.png)
+
 
 ## Contexto
 El proyecto se realiza en los ordenadores del centro de Academia didactica, especificamente el ordenador numero 02 del aula 9 , en el sistema operativo de Ubuntu.
