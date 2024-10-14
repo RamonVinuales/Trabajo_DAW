@@ -43,7 +43,7 @@ Para configurar el **servidor web apache** se realiza:
    
 3.Actualizar los Hosts
   ![updateHosts](updatearHosts.png)
-  Añadimos la direccion que le hemos puesto en este caso es la del 170.0.0.1
+  Añadimos la dirección que le hemos puesto en este caso es la del 170.0.0.1
 
   ![Hosts](Hosts.png)
 
