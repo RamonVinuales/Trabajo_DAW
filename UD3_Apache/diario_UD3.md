@@ -66,3 +66,4 @@ Conseguir un servidor de Apache funcional el cual pueda editar y modificar.
 
 ## Bibliografia
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es?authuser=0)
+* [Tutorial de como configurar Ubuntu](https://ubuntu.com/tutorials/install-and-configure-apache)
