@@ -53,6 +53,7 @@ Para configurar el **servidor web apache** se realiza:
   5.Extra:Permiso y Denegacion de Acceso:
    Se permite o se deniega el acceso mediante el uso de:
    ![Imagen del directorio](bloqueoDeIpMenosLaMia.png)
+   
    en el archivo 000-default.conf
 
 ## Contexto
