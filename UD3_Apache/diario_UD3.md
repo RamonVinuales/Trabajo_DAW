@@ -47,6 +47,9 @@ Para configurar el **servidor web apache** se realiza:
 
   ![Hosts](Hosts.png)
 
+  4.Comprobar que funciona
+  ![Ejemplo pagina web creada](exampleWeb.png)
+
 
 ## Contexto
 El proyecto se realiza en los ordenadores del centro de Academia didactica, especificamente el ordenador numero 02 del aula 9 , en el sistema operativo de Ubuntu.
@@ -70,4 +73,4 @@ Conseguir un servidor de Apache funcional el cual pueda editar y modificar.
 
 
 
-[Back to the Index](indice.md)
+[Volver al indice](Indice.md)
