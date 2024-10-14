@@ -50,6 +50,10 @@ Para configurar el **servidor web apache** se realiza:
   4.Comprobar que funciona
   ![Ejemplo pagina web creada](exampleWeb.png)
 
+  5.Extra:Permiso y Denegacion de Acceso:
+   Se permite o se deniega el acceso mediante el uso de:
+   ![Imagen del directorio](bloqueoDeIpMenosLaMia.png)
+   en el archivo 000-default.conf
 
 ## Contexto
 El proyecto se realiza en los ordenadores del centro de Academia didactica, especificamente el ordenador numero 02 del aula 9 , en el sistema operativo de Ubuntu.
